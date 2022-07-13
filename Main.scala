@@ -5,9 +5,9 @@ object Main {
   def create_session(): Session = {
     // Replace the <placeholders> below.
     val configs = Map (
-      "URL" -> "https://ug43226.central-india.azure.snowflakecomputing.com:443",
-      "USER" -> "drishyadinesh",
-      "PASSWORD" -> "Dd#15112001",
+      "URL" -> "https://######.#############.snowflakecomputing.com:443",
+      "USER" -> "#############",
+      "PASSWORD" -> "############",
       "ROLE" -> "ACCOUNTADMIN",
       "WAREHOUSE" -> "DEMO_WH",
       "DB" -> "DEMO_DB",
